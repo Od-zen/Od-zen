@@ -4,3 +4,7 @@ BIO: "Junior Backend Developer | Java & Python".
 • Contact: 
  - Gmail: arekusanno@gmail.com
  - Telegram: @Arekusandere
+Main projects:
+ - https://github.com/P2C-fujii/P2C-PrettyPrincess
+ - https://github.com/Od-zen/Muvi_Project
+ - https://github.com/Od-zen/spring
